@@ -21,4 +21,3 @@ mkdir -p cloud/{cloud.providers.d,cloud.profiles.d}
 touch keys/.keep reactor/.keep
 
 
-# SaltStack
